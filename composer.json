@@ -1,0 +1,21 @@
+{
+    "name": "wokster/yii2-wokster-behaviors",
+    "description": "behavior for status",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","trait","status"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Maksym Tymofeiev",
+            "email": "wokster@list.ru"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "wokster\\behaviors\\": ""
+        }
+    }
+}
