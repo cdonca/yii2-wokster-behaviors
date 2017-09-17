@@ -10,6 +10,7 @@ namespace wokster\behaviors;
 
 use Yii;
 use yii\base\Behavior;
+use yii\base\ErrorException;
 use yii\db\ActiveRecord;
 use yii\helpers\Url;
 use yii\web\UploadedFile;
